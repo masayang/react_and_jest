@@ -11,4 +11,3 @@ Then I created a react app using npx command.
 ### `cd react-jest`
 ### `npm start`
 
-
